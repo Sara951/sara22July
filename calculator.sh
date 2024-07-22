@@ -1,3 +1,5 @@
 #!/bin/bash
 #Add func
-wwwwwwwwwwwwwwwwwwww
+wwwwwww
+ssssssssssssssssssssssssssssssssssssssssss
+wwwwwwwwwwwww
